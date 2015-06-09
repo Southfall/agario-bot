@@ -2113,26 +2113,15 @@ $('#canvas').after($('#canvas').clone().attr('id','canvas-2')).remove();
 })(window, jQuery);
 
 window.skinNames=[
-	'twitch/gamerlio',
-	'nomday.com/lio',
-	'Yaranaika',
-	'Pokerface',
-	'Sir',
-	'Mars',
-	'Stalin',
-	'Moon',
-	'Wojak',
-	'Imperial Japan',
-	'Doge',
-	'Earth',
-	'Bait',
-	'Steam',
-	'Piccolo',
-	'Sanik',
-	'Cia',
-	'4chan',
-	'Ayy Lmao',
-	'Qing Dynasty',
+	'Westfall',
+	'Northfall',
+	'Southfall',
+	'Eastfall',
+	'NorthWestfall',
+	'NorthSouthfall',
+	'SouthWestfall',
+	'SouthEastfall',
+
 ]
 
 $('#nick').parent().remove()
